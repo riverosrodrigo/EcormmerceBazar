@@ -1,0 +1,51 @@
+[
+	{   "id":1,
+		"nombre":"Sarten Hudson Induccion 24cm",
+		"precio":2800,
+		"imagen": "multimedia/sarten_azul.webp"
+
+	},
+	{   "id":2,
+        "nombre":"Sarten Hudson Ocre 20cm",
+		"precio":2100,
+         "imagen": "multimedia/sarten_ocre.webp"
+	},
+	{    "id":3,
+        "nombre":"Sarten Hudson Pastel 24cm",
+		"precio":2000,
+		"imagen":"multimedia/sarten_pastel.webp"
+	},
+	{    "id":4,
+        "nombre":"Bifera Hudson  24cm",
+		"precio":2300,
+		"imagen":"multimedia/bifera hudson.webp"
+	},
+	{    "id":5,
+        "nombre":"Bifera Tramontina 24cm",
+		"precio":1800,
+		"imagen":"multimedia/bifera tramontina.webp"
+	},
+	{    "id":6,
+        "nombre":"Bifera Roswell 24cm",
+		"precio":2500,
+		"imagen":"multimedia/bifera roswell.webp"
+	},
+
+	{    "id":7,
+        "nombre":"Cacerola Ramos 24cm",
+		"precio":2200,
+		"imagen":"multimedia/cacerola ramos.webp"
+	}
+	,
+	{    "id":8,
+        "nombre":"Cacerola Tramontina 24cm",
+		"precio":2099,
+		"imagen":"multimedia/cacerola tramontina.webp"
+	},
+
+	{    "id":9,
+        "nombre":"Cacerola Tramontina 24cm",
+		"precio":3000,
+		"imagen":"multimedia/cacerola hudson.webp"
+	}
+]
